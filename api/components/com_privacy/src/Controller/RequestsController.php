@@ -48,7 +48,7 @@ class RequestsController extends ApiController
      *
      * @return  static  A \JControllerLegacy object to support chaining.
      *
-     * @since   __DEPLOY_VERSION__
+     * @since   6.1.2
      */
     public function displayItem($id = null)
     {
@@ -64,7 +64,7 @@ class RequestsController extends ApiController
      *
      * @return  static  A \JControllerLegacy object to support chaining.
      *
-     * @since   __DEPLOY_VERSION__
+     * @since   6.1.2
      */
     public function displayList()
     {
