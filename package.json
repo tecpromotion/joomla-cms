@@ -80,8 +80,8 @@
     "shepherd.js": "^11.2.0",
     "short-and-sweet": "^1.0.4",
     "skipto": "^4.1.7",
-    "tinymce": "^8.3.2",
-    "tinymce-i18n": "^26.2.16",
+    "tinymce": "^8.8.2",
+    "tinymce-i18n": "^26.8.2",
     "vue": "^3.5.30",
     "vue-focus-lock": "^2.0.7",
     "vuex": "^4.1.0",
@@ -129,5 +129,13 @@
     "stylelint-order": "^7.0.1",
     "stylelint-scss": "^6.14.0",
     "totp-generator": "^1.0.0"
+  },
+  "allowScripts": {
+    "vue-demi@0.14.10": true,
+    "vue-demi@0.13.11": true,
+    "core-js@3.48.0": true,
+    "cypress@15.18.0": true,
+    "esbuild@0.27.7": true,
+    "fsevents@2.3.3": true
   }
 }
